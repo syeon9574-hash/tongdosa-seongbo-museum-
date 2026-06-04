@@ -1,0 +1,8 @@
+{
+  "name": "Tongdosa Seongbo Museum - The Art of Zen",
+  "description": "A minimalist gallery-style renewal design for Tongdosa Seongbo Museum, inspired by 29CM editorial aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
